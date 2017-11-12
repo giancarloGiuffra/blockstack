@@ -1,0 +1,4 @@
+$ORIGIN giancarlogiuffra.id
+$TTL 3600
+pubkey TXT "pubkey:data:038af45fb140290076e93c70610689646faddd4889165d61b2857e3c2a688f0360"
+_https._tcp URI 10 1 "https://ipfs.io/ipfs/QmX9KKhomQR12k1E4AxQBYb94WBgXDDJzbx1CB42r8usDk"
