@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Person",
+  "givenName": "Giancarlo",
+  "familyName": "Giuffra Moncayo",
+  "description": "Dreamer",
+  "account": [
+    {
+      "@type": "Account",
+      "identifier": "GiancaGiuffra",
+      "proofType": "http",
+      "proofUrl": "https://twitter.com/GiancaGiuffra/status/929791301763194880",
+      "service": "twitter"
+    },
+    {
+      "@type": "Account",
+      "identifier": "giancarloGiuffra",
+      "proofType": "http",
+      "proofUrl": "https://gist.github.com/giancarloGiuffra/56e9255c35f32c39daf1fe8325fd57bc",
+      "service": "github"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://raw.githubusercontent.com/giancarloGiuffra/blockstack/master/giancarlogiuffra.jpg",
+      "name": "avatar"
+    }
+  ]
+}
